@@ -1,4 +1,4 @@
 # BubbleJump
 Mobile Platform game.
 Tilt phone left and right to move the ball. Bounce as far as you can until you lose!
-![Bubble Jump Demo](./Capture.PNG)
+![Bubble Jump Demo](./Capture.PNG=250x250)
