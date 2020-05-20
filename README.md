@@ -1,2 +1,3 @@
 # BubbleJump
-Small scroll climb game consisting of one level that is auto generated each time its played and three different types of platforms
+Mobile Platform game.
+Tilt phone left and right to move the ball. Bounce as far as you can until you lose!
